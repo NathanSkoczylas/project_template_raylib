@@ -2,4 +2,4 @@
 build
 
 # thirdparty Dir
-#thirdparty
+thirdparty/raylib
